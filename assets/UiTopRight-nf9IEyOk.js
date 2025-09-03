@@ -1,1 +1,0 @@
-import{R as r,j as s}from"./index-Cs9Q5B52.js";const i=r.forwardRef(({children:t},o)=>s.jsx("div",{ref:o,style:{position:"absolute",top:10,right:10,padding:"10px",background:"rgba(255, 255, 255, 0.85)"},children:t}));export{i as U};

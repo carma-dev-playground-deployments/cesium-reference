@@ -1,4 +1,4 @@
-import{d as w,e as p,f as i,g as y,P as z,h as _,i as D,k as A,l as g,E as L,m as E,T,M as b,r as c,W as R,j as d,V as U,c as B}from"./index-C2-4cd6v.js";import{u as O}from"./useTileset-C4FxdgmZ.js";import{B as x}from"./button-lv84ejDS.js";import"./index-BuDuR5yn.js";const V=`
+import{d as w,e as p,f as i,g as y,P as z,h as _,i as D,k as A,l as g,E as L,m as E,T,M as b,r as c,W as R,j as d,V as U,c as B}from"./index-CLYiXysa.js";import{u as O}from"./useTileset-B0KTNYv5.js";import{B as x}from"./button-DMkxfqMi.js";import"./index-Dmppb9Sa.js";const V=`
 #define USE_NORMAL_SHADING
 uniform float view_distance; // Maximum distance for shadow effect
 uniform vec3 viewArea_color; // Color for visible areas

@@ -1,1 +1,0 @@
-import{bK as a,r as m,j as r}from"./index-CMUgX6Mx.js";function x({position:o,children:t,order:n}){const{addControl:e,removeControl:s}=a();return m.useEffect(()=>(e({position:o,component:t,order:n}),()=>{s({position:o,component:t,order:n})}),[t]),r.jsx(r.Fragment,{})}export{x as C};

@@ -1,4 +1,4 @@
-import{C as p,a as i,b as _,d as g,e as y,T as z,M as D,r as c,j as d,c as A}from"./index-BFLVpFu9.js";import{c as w,d as L,P as E,e as b,f as T,E as R,W as U,V as B}from"./tileset3d-4vlbfCMV.js";import{u as O}from"./useTileset-BqTIo7oI.js";import{B as x}from"./button-5ybsSp3g.js";import"./index-DAmcS2bV.js";import"./Compact-BfPLW-pw.js";const V=`
+import{C as p,a as i,b as _,d as g,e as y,T as z,M as D,r as c,j as d,c as A}from"./index-C720QB34.js";import{c as w,d as L,P as E,e as b,f as T,E as R,W as U,V as B}from"./tileset3d-C5-SY8HY.js";import{u as O}from"./useTileset-DL85hFpi.js";import{B as x}from"./button-B2Qeb5QY.js";import"./index-_D41cDDC.js";import"./Compact-Cw_SYY0t.js";const V=`
 #define USE_NORMAL_SHADING
 uniform float view_distance; // Maximum distance for shadow effect
 uniform vec3 viewArea_color; // Color for visible areas

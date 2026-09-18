@@ -1,0 +1,1 @@
+const t=Math.PI,O=Math.PI*2,_=Math.PI/2,I=Math.PI/4,c=-_,a=-I,R=0,s=t,e=O,T=_,E=c,o=s/180,P=180/s;function d(n){return n===void 0?void 0:n*o}function u(n){return n===void 0?void 0:n*P}export{E as M,_ as P,e as T,R as Z,O as a,t as b,T as c,d,a as e,u as r};
